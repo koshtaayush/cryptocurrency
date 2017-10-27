@@ -1,0 +1,11 @@
+/* Styles go here */
+.barGraph{
+	height: 50% !important;
+	width: 50% !important;
+}
+
+.lastUpdate{
+  font-weight: 600;
+  text-align :Center;
+  
+}

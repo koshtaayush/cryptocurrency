@@ -1,0 +1,14 @@
+{
+  "name": "cryptocurrency",
+  "version": "1.0.0",
+  "description": "Displays a bar graph of different crypto currencies using charts module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
